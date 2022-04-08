@@ -5,7 +5,7 @@
 /**
 * main - Entry point
 *
-* Return: Always 0 (successs/correct)
+* Return: Always 0 (success/correct)
 */
 
 int main(void)
@@ -25,7 +25,7 @@ printf("%i is negative\n", n);
 }
 else
 {
-printf("%I is positive\n", n);
+printf("%i is positive\n", n);
 }
 return (0);
 }
